@@ -1,4 +1,6 @@
 # Url_Shortener
 This repo contains code for a Short URl Service
-Below images show how the frontend of project looks like![shortener website p1](https://user-images.githubusercontent.com/56733216/139940519-4cf9a24d-d384-467d-8764-f854d9a3b410.PNG)
-![shortener website p2](https://user-images.githubusercontent.com/56733216/139940526-1d7e88e4-7172-4ead-b48b-a502413e9129.PNG)
+
+Below images show how the frontend of project looks like
+![p1](https://user-images.githubusercontent.com/56733216/139941802-d36ec299-7b74-44d7-a837-871f7ac11c1d.jpeg)
+![p2](https://user-images.githubusercontent.com/56733216/139941808-5cd37e13-a21d-42d3-8bcc-dd07466617bb.jpeg)
